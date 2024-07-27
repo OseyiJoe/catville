@@ -75,6 +75,11 @@ export const Link = styled(NavLink)`
     color: white;
     background-color: rgb(114, 17, 17);
   }
+
+  &:hover {
+    color: white;
+    background-color: rgb(114, 17, 17);
+  }
 `;
 
 export const Symbol = styled(NavLink)`
