@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/catville/static/css/main.bd2dd031.css",
-    "main.js": "/catville/static/js/main.f51066c6.js",
+    "main.js": "/catville/static/js/main.45e42c07.js",
     "static/css/433.8a8c7a35.chunk.css": "/catville/static/css/433.8a8c7a35.chunk.css",
     "static/js/433.ff601dd2.chunk.js": "/catville/static/js/433.ff601dd2.chunk.js",
     "static/css/512.62c0975a.chunk.css": "/catville/static/css/512.62c0975a.chunk.css",
@@ -23,7 +23,7 @@
     "static/media/icons.svg": "/catville/static/media/icons.6583bf02560f79b7c6455e48324d975c.svg",
     "index.html": "/catville/index.html",
     "main.bd2dd031.css.map": "/catville/static/css/main.bd2dd031.css.map",
-    "main.f51066c6.js.map": "/catville/static/js/main.f51066c6.js.map",
+    "main.45e42c07.js.map": "/catville/static/js/main.45e42c07.js.map",
     "433.8a8c7a35.chunk.css.map": "/catville/static/css/433.8a8c7a35.chunk.css.map",
     "433.ff601dd2.chunk.js.map": "/catville/static/js/433.ff601dd2.chunk.js.map",
     "512.62c0975a.chunk.css.map": "/catville/static/css/512.62c0975a.chunk.css.map",
@@ -43,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.bd2dd031.css",
-    "static/js/main.f51066c6.js"
+    "static/js/main.45e42c07.js"
   ]
 }
