@@ -67,7 +67,7 @@ export const UserProvider = ({ children }) => {
         }, 2000);
         setCatPageNums(1);
 
-        console.log(response);
+        //console.log(response);
       })
       .catch(error => {
         //setLoadingStatus(false);
@@ -164,7 +164,7 @@ export const UserProvider = ({ children }) => {
       .then(response => {
         setBreedList([...response]);
         setInitLoader(false);
-        //console.log(response);
+        console.log(response);
       })
       .catch(error => {
         setInitLoader(false);
